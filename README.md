@@ -1,6 +1,5 @@
-- 👋 Hey, I’m @RLOCLIPZ
+- 👋 Hey, I’m säääscha
 - 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me rloclipz@gmail.com
+- 🌱 I’m currently learning java
+- 📫 How to reach me rloclipz@hotmail.com
 
